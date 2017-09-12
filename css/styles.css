@@ -1,0 +1,12 @@
+li {
+  cursor: crosshair;
+  color: blue;
+}
+
+li:hover {
+  text-decoration: underline;
+}
+
+p {
+  display: none;
+}
